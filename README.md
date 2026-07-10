@@ -49,11 +49,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji120533&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji120533&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Balaji120533&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+ 
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Balaji120533&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </div>
+
 
 <div align="center">
 
