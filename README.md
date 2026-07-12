@@ -70,16 +70,6 @@
 
 ---
 
-## 🧩 LeetCode Stats
-
-<div align="center">
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Balaji_S2006?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/Balaji_S2006)
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
@@ -96,8 +86,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/balaji-s6006)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Balaji120533)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Balaji_S2006)
-
 </div>
 
 ---
