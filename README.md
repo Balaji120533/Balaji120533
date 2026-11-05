@@ -55,10 +55,10 @@ A **VS Code extension** that detects time and space complexity of code — fully
 </td>
 <td width="50%" valign="top">
 
-#### 🔄 [LeetCode → Notion Sync](https://github.com/Balaji120533/LeetCode-Notion-Sync)
-Browser extension that logs LeetCode attempts to a Notion tracker, marks Accepted runs with code and time, and saves your approach notes.
+#### 🧠 [BitVerity](https://github.com/Balaji120533/BitVerity-AI-Monitored-Programming-Platform-with-Integrated-Code-Authenticity-Detection)
+Programming platform with real-time, multi-model **AI code-authenticity detection**, keystroke and paste analysis, sandboxed execution and explainable scoring.
 
-`JavaScript` `Notion API`
+`JavaScript` `AI detection` `Team project`
 
 </td>
 </tr>
@@ -82,7 +82,7 @@ Multi-agent smart solar platform built for a national-level college hackathon.
 </tr>
 </table>
 
-<sub>More: <a href="https://github.com/Balaji120533/voice-ai-chat">voice-ai-chat</a> (Deepgram + Ollama) · <a href="https://github.com/Balaji120533/Water-Tanker-Dispatch-System">Water-Tanker-Dispatch-System</a> · <a href="https://github.com/Balaji120533/black-hole-simulation">black-hole-simulation</a> · <a href="https://github.com/Balaji120533/BitVerity-AI-Monitored-Programming-Platform-with-Integrated-Code-Authenticity-Detection">BitVerity</a> (team project)</sub>
+<sub>More: <a href="https://github.com/Balaji120533/voice-ai-chat">voice-ai-chat</a> (Deepgram + Ollama) · <a href="https://github.com/Balaji120533/Water-Tanker-Dispatch-System">Water-Tanker-Dispatch-System</a> · <a href="https://github.com/Balaji120533/black-hole-simulation">black-hole-simulation</a> · <a href="https://github.com/Balaji120533/LeetCode-Notion-Sync">LeetCode-Notion-Sync</a></sub>
 
 ## Tech Stack
 
