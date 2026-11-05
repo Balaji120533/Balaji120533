@@ -1,233 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:171717,50:312E81,75:6D28D9,100:000000&height=250&section=header&text=BALAJI%20S&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20BUILDER%20%E2%80%A2%20PROBLEM%20SOLVER&descSize=15&descAlignY=60&descColor=A78BFA" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:312E81&height=140&section=header&text=Balaji%20S&fontSize=44&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Developer%20%C2%B7%20CS%20Undergrad%20%40%20REC%20Chennai&descSize=15&descAlignY=72&descColor=C4B5FD" width="100%" alt="Balaji S"/>
 
-<br>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=40&lines=I+build+tools+people+actually+use.;Full-stack+%C2%B7+Developer+tooling+%C2%B7+Agentic+AI;Ship+%E2%86%92+Validate+%E2%86%92+Improve+%E2%86%92+Repeat" alt="Typing intro"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=750&height=50&lines=Building+products+from+0+%E2%86%92+1;Automating+boring+things+with+n8n;Exploring+Agentic+AI;Always+learning.+Always+building." alt="Typing SVG"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Balaji120533&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
-
-<br><br>
-
-<a href="https://github.com/Balaji120533">
-<img src="https://img.shields.io/github/followers/Balaji120533?label=Followers&style=for-the-badge&color=7C3AED" alt="GitHub Followers"/>
-</a>
-
-<a href="https://github.com/Balaji120533?tab=repositories">
-<img src="https://img.shields.io/github/stars/Balaji120533?affiliations=OWNER&style=for-the-badge&color=F59E0B" alt="GitHub Stars"/>
-</a>
+<p>
+<a href="https://balaji-s.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/balaji-s6006"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/BalajiSDevs/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="mailto:balaji.s2.2024.cse@rajalakshmi.edu.in"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<img src="https://komarev.com/ghpvc/?username=Balaji120533&label=Profile%20views&color=6D28D9&style=flat-square" alt="Profile views"/>
+</p>
 
 </div>
 
----
+## About
 
-## 👨‍💻 About Me
+I'm a Computer Science & Engineering student at **Rajalakshmi Engineering College, Chennai** (Class of 2028), focused on turning ideas into real, working products rather than tutorials.
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  Hey! I'm Balaji — a Computer Science undergraduate         │
-│  who enjoys turning ideas into real, working products.      │
-│                                                             │
-│  ⚡ Full-Stack Development                                  │
-│  🤖 Automation & n8n                                        │
-│  🧠 Exploring Agentic AI                                    │
-│  🚀 Product Building                                        │
-│  🧩 Problem Solving                                         │
-│                                                             │
-│  I like shipping fast, validating ideas early,              │
-│  and avoiding unnecessary over-engineering.                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+- 💼 Interned as a **Full-Stack Developer at AnjuSoft** (healthcare platform — Laravel + React/Next.js) and as an **Android Developer at NSIC**
+- 🛠️ Building developer tools — VS Code extensions, browser extensions, and document automation
+- 🤖 Exploring **agentic AI**, local LLMs, and automation with **n8n**
+- 🧩 Practising DSA and preparing for SDE roles at product-based companies
 
-### ⚡ Currently
-
-- 🔨 Building full-stack applications
-- 🤖 Exploring **Agentic AI & AI-powered workflows**
-- ⚙️ Creating automation with **n8n**
-- 🧠 Improving **DSA & problem solving**
-- ☕ Turning caffeine into questionable architecture
-
----
-
-## 🧰 Tech Arsenal
-
-<div align="center">
-
-### 🌐 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,nextjs&theme=dark" alt="Frontend Technologies"/>
-
-### 🔧 Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring&theme=dark" alt="Backend Technologies"/>
-
-### 🗄️ Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,postgres,redis&theme=dark" alt="Database Technologies"/>
-
-### ⚙️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,n8n&theme=dark" alt="Tools"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
+## Featured Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🧠 BitVerity
+#### 📄 [Scribe](https://github.com/Balaji120533/Scribe)
+From draft to submission-ready **IEEE double-column paper** (.docx + .pdf) with a live preview.
 
-A competitive coding platform designed to detect **AI-generated code** using multi-model machine learning.
-
-**Built with**
-
-`React` · `Node.js` · `PostgreSQL` · `Redis`
-
-**Focus**
-
-AI Detection · Competitive Programming · Real-time Analysis
+`TypeScript` `Document automation`
 
 </td>
-
 <td width="50%" valign="top">
 
-### 📄 Auto-IEEE Layout Compiler
+#### 🎓 [placement-kit-skills](https://github.com/Balaji120533/placement-kit-skills)
+Four open **Agent Skills** that turn Claude, Codex or ChatGPT into a campus placement trainer — aptitude, CS MCQs, DSA coaching and mock tests.
 
-A micro-SaaS that automatically converts academic papers into **IEEE double-column format**.
-
-**Built with**
-
-`Next.js` · `Node.js` · `Python` · `FastAPI`
-
-**Focus**
-
-Automation · Document Processing · SaaS
+`Agent Skills` `LLMs`
 
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
+#### ⏱️ [Complexity Analyzer](https://github.com/Balaji120533/Complexity-Analyzer-vscode-extension)
+A **VS Code extension** that detects time and space complexity of code — fully offline.
+
+`TypeScript` `VS Code API`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔄 [LeetCode → Notion Sync](https://github.com/Balaji120533/LeetCode-Notion-Sync)
+Browser extension that logs LeetCode attempts to a Notion tracker, marks Accepted runs with code and time, and saves your approach notes.
+
+`JavaScript` `Notion API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎬 [Watchparty-LAN](https://github.com/Balaji120533/Watchparty-LAN)
+Turns a laptop into a local watch-party hub — broadcast live audio or sync a video to friends' phones over Wi-Fi.
+
+`JavaScript` `WebRTC / LAN streaming`
+
+</td>
+<td width="50%" valign="top">
+
+#### ☀️ [SolarNexus](https://github.com/Balaji120533/SolarNexus)
+Multi-agent smart solar platform built for a national-level college hackathon.
+
+`Dart` `Flutter` `Multi-agent AI`
+
+</td>
 </tr>
 </table>
 
-</div>
+<sub>More: <a href="https://github.com/Balaji120533/voice-ai-chat">voice-ai-chat</a> (Deepgram + Ollama) · <a href="https://github.com/Balaji120533/Water-Tanker-Dispatch-System">Water-Tanker-Dispatch-System</a> · <a href="https://github.com/Balaji120533/black-hole-simulation">black-hole-simulation</a> · <a href="https://github.com/Balaji120533/BitVerity-AI-Monitored-Programming-Platform-with-Integrated-Code-Authenticity-Detection">BitVerity</a> (team project)</sub>
 
----
+## Tech Stack
 
-## 🧠 What I'm Interested In
+| | |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,dart&theme=dark" alt="Languages"/> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend"/> |
+| **Backend & Mobile** | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flutter,androidstudio&theme=dark" alt="Backend and Mobile"/> |
+| **Data & Cloud** | <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,vercel&theme=dark" alt="Data and Cloud"/> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools"/> &nbsp; ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Full--Stack%20Development-7C3AED?style=for-the-badge" alt="Full Stack Development"/>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-6366F1?style=for-the-badge" alt="Artificial Intelligence"/>
-
-<img src="https://img.shields.io/badge/Agentic%20AI-8B5CF6?style=for-the-badge" alt="Agentic AI"/>
-
-<img src="https://img.shields.io/badge/Automation-EA4B71?style=for-the-badge" alt="Automation"/>
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge" alt="n8n"/>
-
-<img src="https://img.shields.io/badge/Product%20Building-06B6D4?style=for-the-badge" alt="Product Building"/>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
+## Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Balaji120533&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=Balaji120533&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
+<img src="https://leetcard.jacoblin.cool/BalajiSDevs?theme=dark&font=Fira%20Code&ext=heatmap" height="165" alt="LeetCode stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji120533&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<br/><br/>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Balaji120533&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji120533&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Balaji120533/Balaji/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-## 💡 Developer Philosophy
-
-<div align="center">
-
-### `Build → Validate → Improve → Repeat`
-
-<br>
-
-> **"Don't build what sounds impressive. Build what solves a problem."**
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/balaji-s6006">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/Balaji120533">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="mailto:balaji.s2.2024.cse@rajalakshmi.edu.in">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⭐ If you find something interesting here, feel free to explore my repositories!
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Balaji120533/Balaji120533/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Balaji120533/Balaji120533/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Balaji120533/Balaji120533/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake"/>
+</picture>
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%" alt="Animated Footer"/>
-
+<sub>"Don't build what sounds impressive. Build what solves a problem."</sub>
 </div>
